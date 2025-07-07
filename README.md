@@ -12,9 +12,7 @@ A simple web form that validates user input using JavaScript and a Python script
 - Click Submit to see validation alert
 
 ### 2. Python Script:
-- Run `form_receiver.py` in terminal using:
-  ```bash
-  python form_receiver.py
+- Run `python_script.py` in terminal
 
 ### Features:
 - HTML + CSS responsive form
